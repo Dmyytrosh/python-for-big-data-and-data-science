@@ -1,0 +1,1 @@
+print("Dmytro Shchekhorskyi, group-5, AI-2025")
